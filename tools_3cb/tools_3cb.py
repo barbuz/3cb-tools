@@ -78,16 +78,6 @@ class Tools3CB:
                 deck_db = deck_db.drop(deck)
         return deck_db
 
-    def get_deck_score_vs(self, deck, opponents=None):
-        deck_db = self.load_deck(deck)
-        deck_db = self.remove_banlist(deck_db)
-        if opponents is not None:
-            deck_db = deck_db.filter(items=opponents, axis=0)
-        if deck_db.empty:
-            return None
-        score = deck_db["Result"].sum()
-        return score
-
     def get_suggestions(self, gauntlet, threshold=None):
         """
         Returns a DataFrame with all decks that have a known score above the threshold
@@ -99,11 +89,14 @@ class Tools3CB:
                 raise ValueError(f"Deck {deck} not found in database")
             # Negate values as we are loading the reverse results
             deck_db = -self.load_deck(deck)
-            df[deck] = self.remove_banlist(deck_db)
+            deck_db = self.remove_banlist(deck_db)
+            deck_db = deck_db.rename(columns={"Result": deck})
+            df = pd.concat([df, deck_db], axis=1)
         df["Total"] = df.sum(axis=1)
         if threshold is not None:
             df = df[df["Total"] > threshold]
         df = df.sort_values(by="Total", ascending=False)
+        df.index.name = "Suggested Deck"
         return df
 
     def guess_result(self, deck, opponent):
@@ -111,7 +104,7 @@ class Tools3CB:
             -guess for guess in self.get_guesses(opponent, deck)
         ]
         if not guesses:
-            return 0
+            return None
         return sum(guesses) / len(guesses)
 
     def get_guesses(self, deck, opponent):
@@ -136,6 +129,10 @@ class Tools3CB:
             for opponent in table.columns:
                 if pd.isna(table.loc[deck, opponent]):
                     table.loc[deck, opponent] = self.guess_result(deck, opponent)
+        # Recompute totals
+        table = table.drop("Total", axis=1)
+        table["Total"] = table.sum(axis=1)
+        table = table.sort_values(by="Total", ascending=False)
         return table
 
 
@@ -146,9 +143,5 @@ if __name__ == "__main__":
     print(table)
     table.to_csv("suggestions.csv")
     table = tools.fill_guesses(table)
-    # Recompute totals
-    table = table.drop("Total", axis=1)
-    table["Total"] = table.sum(axis=1)
-    table = table.sort_values(by="Total", ascending=False)
     print(table)
     table.to_csv("suggestions_guesses.csv")

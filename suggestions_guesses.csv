@@ -1,7 +1,9 @@
-Opponent Decklist,Alpine Moon | Hammerheim | Heartfire Hero,Blast Zone | Keldon Megaliths | Sunken Citadel,Field of Ruin | Idol of False Gods | Sol Ring,Mishra's Factory | Mox Jet | Nezumi Shortfang,Ancient Tomb | Mox Ruby | Stingerback Terror,Dark Ritual | Swamp | Unstoppable Slasher,Remote Farm | Skrelv's Hive | Soul Partition,Total
+Suggested Deck,Alpine Moon | Hammerheim | Heartfire Hero,Blast Zone | Keldon Megaliths | Sunken Citadel,Field of Ruin | Idol of False Gods | Sol Ring,Mishra's Factory | Mox Jet | Nezumi Shortfang,Ancient Tomb | Mox Ruby | Stingerback Terror,Dark Ritual | Swamp | Unstoppable Slasher,Remote Farm | Skrelv's Hive | Soul Partition,Total
 Dryad Arbor | Force of Negation | Mental Misstep,1.0,-1.0,0.6666666666666666,1.0,0.20588235294117646,1.0,1.0,3.8725490196078427
 Mishra's Factory | Mox Jet | Nezumi Shortfang,1.0,1.0,-0.125,-0.0,0.05,1.0,-0.0,2.925
+Dryad Arbor | Force of Negation | Slippery Bogle,0.45,-1.0,1.0,0.3181818181818182,0.3333333333333333,0.5,0.6666666666666666,2.268181818181818
 Gleeful Demolition | Serene Remembrance | Slagwoods Bridge,-1.0,1.0,0.0,-0.5,0.4166666666666667,1.0,1.0,1.9166666666666667
+Mishra's Factory | Mox Pearl | Prairie Dog,-0.19230769230769232,0.08695652173913043,0.0,1.0,1.0,-0.0,-0.25,1.644648829431438
 Bloodhall Ooze | Leyline of the Guildpact | The Tabernacle at Pendrell Vale,1.0,0.3333333333333333,1.0,1.0,-0.7,-1.0,-0.0,1.6333333333333329
 Khalni Garden | Mistbreath Elder | Sunshower Druid,1.0,0.0,0.0,-0.9,1.0,0.6666666666666666,-0.2,1.5666666666666667
 Mountain | Storm World | Wayward Guide-Beast,-0.0,0.3333333333333333,1.0,-0.25,0.5,-0.4,0.375,1.5583333333333331
@@ -13,27 +15,50 @@ Plains | Student of Warfare | Unwanted Remake,1.0,-0.7142857142857143,0.4,1.0,-0
 Dark Ritual | Phylactery Lich | Vault of Whispers,1.0,0.0,1.0,-0.3333333333333333,0.25,-0.5,-0.3333333333333333,1.0833333333333335
 Mox Jet | Mutavault | Nezumi Shortfang,1.0,0.75,0.0,-0.34210526315789475,-0.25,-0.14285714285714285,-0.0,1.0150375939849625
 On Thin Ice | Snow-Covered Plains | Student of Warfare,1.0,-1.0,0.0,1.0,0.0,1.0,-1.0,1.0
+Cleansing Wildfire | Mishra's Factory | Mox Ruby,-0.1388888888888889,1.0,0.0,1.0,-0.4583333333333333,-1.0,0.40384615384615385,0.8066239316239318
 Assassin Initiate | Evil Presence | Swamp,1.0,1.0,0.0,-0.21428571428571427,-0.2857142857142857,-0.6,-0.125,0.775
 Dryad Arbor | Jaddi Offshoot | Mistbreath Elder,0.5,-0.42857142857142855,0.25,-0.15,-0.2,0.5,0.2857142857142857,0.7571428571428571
+Mishra's Factory | Mox Pearl | Skrelv's Hive,-0.0945945945945946,1.0,0.0,-1.0,-0.0625,1.0,-0.17105263157894737,0.671852773826458
+Mox Pearl | Mutavault | War Priest of Thune,0.16666666666666666,1.0,0.0,-0.2,-0.6,0.2222222222222222,0.045454545454545456,0.6343434343434344
 Floodpits Drowner | Mox Sapphire | Mutavault,1.0,0.3333333333333333,0.0,-0.3333333333333333,-1.0,0.5,0.09090909090909091,0.5909090909090909
 Ancient Tomb | Mana Vault | Thought-Knot Seer,-0.0,0.0,0.0,-0.1,-0.0,-0.3333333333333333,1.0,0.5666666666666667
 "Emrakul, the Aeons Torn | Lotus Bloom | Show and Tell",1.0,-0.2,0.3333333333333333,-0.5555555555555556,0.2,-0.15,-0.08333333333333333,0.5444444444444443
 "Mox Pearl | Mutavault | Phelia, Exuberant Shepherd",1.0,0.0,0.0,-0.3076923076923077,-0.5833333333333334,0.2727272727272727,0.06521739130434782,0.44691902300597947
 Detention Vortex | Sleep-Cursed Faerie | Undiscovered Paradise,1.0,-0.3333333333333333,0.0,-0.07407407407407407,0.0,-0.21875,0.03125,0.40509259259259267
+Karakas | Leyline of Singularity | Student of Warfare,-0.1388888888888889,-1.0,-1.0,1.0,1.0,1.0,-0.5,0.36111111111111116
+Mishra's Factory | Mox Sapphire | Tide Shaper,-0.07894736842105263,0.5555555555555556,-0.5,-0.09090909090909091,-0.6,0.058823529411764705,1.0,0.3445226256371767
 Bloodhall Ooze | Deathrite Shaman | Undiscovered Paradise,1.0,-0.3333333333333333,0.0,-0.03571428571428571,0.3333333333333333,-0.4,-0.25,0.3142857142857144
 "Rograkh, Son of Rohgahh | Senu, Keen-Eyed Protector | Solitude",1.0,-0.5,0.0,-0.0,-0.2,1.0,-1.0,0.30000000000000004
+Azure Beastbinder | Saprazzan Skerry | Tide Shaper,-1.0,1.0,0.0,-1.0,-0.14285714285714285,1.0,0.3333333333333333,0.19047619047619052
+Argent Dais | Dryad Arbor | Karakas,0.03125,-0.7777777777777778,-0.3333333333333333,-0.5,0.6,1.0,0.09375,0.11388888888888882
 "Cruelclaw's Heist | Mishra's Factory | Urborg, Tomb of Yawgmoth",-0.5,1.0,0.0,-0.18181818181818182,0.0,-0.09090909090909091,-0.11764705882352941,0.10962566844919786
 Assassin's Trophy | Golgari Rot Farm | Treetop Village,-0.0,-0.5,-1.0,-0.8,1.0,1.0,0.3125,0.012500000000000178
+Kor Haven | Skrelv's Hive | Sunken Citadel,-0.8,-0.14285714285714285,0.0,-0.5,1.0,0.3333333333333333,0.08333333333333333,-0.026190476190476195
+Dark Ritual | Exsanguinator Cavalry | Urborg,1.0,1.0,1.0,-0.4166666666666667,-1.0,-0.75,-0.9375,-0.10416666666666652
 Flare of Malice | Nested Shambler | Swamp,1.0,1.0,0.0,-0.35714285714285715,-0.625,-0.3333333333333333,-0.8,-0.11547619047619051
+Mishra's Factory | Rishadan Port | Sunken Citadel,-0.20833333333333334,1.0,0.0,-0.2777777777777778,-0.42857142857142855,-0.09090909090909091,-0.15,-0.15559163059163061
+Island | Sleep-Cursed Faerie | Unable to Scream,0.0,-0.4,0.3333333333333333,0.5,-0.625,1.0,-1.0,-0.19166666666666665
+Llanowar Mentor | Pick Your Poison | Undiscovered Paradise,0.1111111111111111,-0.5,0.0,-0.027777777777777776,1.0,-0.6071428571428571,-0.19230769230769232,-0.21611721611721615
 Sleep-Cursed Faerie | Undiscovered Paradise | Unwanted Remake,1.0,-1.0,0.0,0.5,-0.3333333333333333,-0.3181818181818182,-0.125,-0.2765151515151515
 Blinkmoth Nexus | Mox Pearl | Reluctant Role Model,0.5,-0.16666666666666666,0.0,-0.3,-0.6,0.38461538461538464,-0.1,-0.28205128205128205
 Bottomless Vault | Doomsday Confluence | Subterranean Hangar,-0.0,1.0,-0.3333333333333333,-0.2,0.5,-0.25,-1.0,-0.2833333333333332
+Dauthi Voidwalker | Peat Bog | Sheoldred's Edict,-0.75,0.0,0.0,-0.6428571428571429,1.0,0.3333333333333333,-0.22727272727272727,-0.2867965367965367
 "Lotus Bloom | Lotus Bloom | Vraska, Relic Seeker",1.0,0.3333333333333333,1.0,-1.0,-0.5,-0.75,-0.375,-0.29166666666666696
+Karakas | Leyline of Singularity | Loyal Sentry,-0.45454545454545453,-0.4444444444444444,-1.0,0.038461538461538464,1.0,0.75,-0.2,-0.31052836052836047
 Lotus Bloom | Mental Misstep | True-Name Nemesis,1.0,-0.5,1.0,-0.75,-0.8333333333333334,0.16666666666666666,-0.42857142857142855,-0.34523809523809523
 Lotus Bloom | Mental Misstep | Plague Engineer,1.0,-0.5,1.0,-0.625,-0.6666666666666666,0.0,-0.6,-0.3916666666666666
 Luminarch Aspirant | Mox Pearl | Rishadan Port,0.5,-0.1111111111111111,0.0,-0.3333333333333333,-0.6666666666666666,0.2727272727272727,-0.07142857142857142,-0.40981240981240974
 Forest | Llanowar Mentor | Worldspine Wurm,1.0,-0.3333333333333333,0.0,0.3333333333333333,-0.3333333333333333,-1.0,-0.2,-0.5333333333333332
+Reluctant Role Model | Remote Farm | Unwanted Remake,-0.5689655172413793,-0.7142857142857143,-0.25,-0.08823529411764706,0.2,1.0,-0.13333333333333333,-0.554819858978074
 Isochron Scepter | Lightning Helix | Mana Crypt,1.0,0.0,-1.0,0.21428571428571427,-1.0,1.0,-1.0,-0.7857142857142857
+Mountain | Raze | Wayward Guide-Beast,-0.25,-1.0,1.0,-0.6666666666666666,0.0,-0.4,0.5,-0.8166666666666667
+Gideon of the Trials | Lotus Bloom | Slaughter Pact,0.6666666666666666,0.0,1.0,-1.0,0.0,-0.75,-0.8,-0.8833333333333335
+Consign to Memory | Phyrexian Dreadnought | Saprazzan Skerry,-0.8888888888888888,-0.2,0.0,-0.6428571428571429,1.0,-0.2,0.0,-0.9317460317460318
 Hammerheim | Heartfire Hero | Lightning Bolt,1.0,-0.25,-1.0,-0.19230769230769232,0.0,-0.05,-0.4583333333333333,-0.9506410256410256
+Ancient Tomb | Field of Ruin | Phyrexian Revoker,-0.5208333333333334,0.0,-0.5,0.5,-0.29411764705882354,-0.3888888888888889,0.05263157894736842,-1.1512082903336776
 Alpine Moon | Scythe Tiger | Taiga,1.0,-0.25,-1.0,-0.875,-0.3333333333333333,-0.875,0.9,-1.4333333333333331
+Ancient Tomb | Time Vault | Voltaic Servant,-0.4473684210526316,0.0,-1.0,-0.125,0.5,-0.4375,0.06666666666666667,-1.443201754385965
+"Emrakul, the Aeons Torn | Sand Silos | Show and Tell",-0.5357142857142857,0.0,-0.25,-1.0,-0.2,-0.7,1.0,-1.6857142857142855
+Blinkmoth Nexus | Mox Sapphire | Reality Shift,0.05,-1.0,0.0,-0.6,-1.0,1.0,-0.375,-1.9249999999999998
+Banefire | Mental Misstep | Mercadian Bazaar,0.75,-1.0,-1.0,-0.75,-1.0,1.0,-0.3333333333333333,-2.3333333333333335
 Academy Ruins | Azorius Chancery | The Filigree Sylex,1.0,-1.0,0.0,-0.2857142857142857,-0.6666666666666666,-1.0,-0.4166666666666667,-2.369047619047619
