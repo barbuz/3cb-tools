@@ -1,7 +1,21 @@
-Alpine Moon | Hammerheim | Heartfire Hero
-Blast Zone | Keldon Megaliths | Sunken Citadel
 Field of Ruin | Idol of False Gods | Sol Ring
-Mishra's Factory | Mox Jet | Nezumi Shortfang
 Ancient Tomb | Mox Ruby | Stingerback Terror
-Dark Ritual | Swamp | Unstoppable Slasher
+Mishra's Factory | Mox Jet | Nezumi Shortfang
 Remote Farm | Skrelv's Hive | Soul Partition
+Academy Ruins | Calciform Pools | The Filigree Sylex
+Ancient Tomb | Elixir of Immortality | The Filigree Sylex
+Ancient Tomb | Magus of the Moon | Mox Ruby
+Ancient Tomb | Phyrexian Revoker | Phyrexian Revoker
+Azure Beastbinder | Saprazzan Skerry | Tide Shaper
+Blast Zone | Keldon Megaliths | Sunken Citadel
+Calciform Pools | March of Otherworldly Light | Mirrex
+Cleansing Wildfire | Mishra's Factory | Mox Ruby
+Crystal Vein | Elite Spellbinder | Mox Pearl
+Dark Ritual | Swamp | Unstoppable Slasher
+Dryad Arbor | Force of Negation | Mental Misstep
+Karakas | Leyline of Singularity | Student of Warfare
+Lair of the Hydra | Pick Your Poison | Saltcrusted Steppe
+Mana Crypt | Phyrexian Dreadnought | The Mycosynth Gardens
+Mishra's Factory | Mox Pearl | Skrelv's Hive
+Prairie Dog | Remote Farm | Skrelv's Hive
+Prairie Dog | Remote Farm | Soul Partition
