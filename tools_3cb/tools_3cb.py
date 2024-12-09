@@ -83,7 +83,7 @@ class Tools3CB:
         Returns a DataFrame with all decks that have a known score above the threshold
         against the gauntlet
         """
-        df = pd.DataFrame()
+        table = pd.DataFrame()
         for deck in gauntlet:
             if deck not in self.decklist:
                 raise ValueError(f"Deck {deck} not found in database")
@@ -91,13 +91,13 @@ class Tools3CB:
             deck_db = -self.load_deck(deck)
             deck_db = self.remove_banlist(deck_db)
             deck_db = deck_db.rename(columns={"Result": deck})
-            df = pd.concat([df, deck_db], axis=1)
-        df["Total"] = df.sum(axis=1)
+            table = pd.concat([table, deck_db], axis=1)
+        table.insert(0, "Total", table.sum(axis=1))
         if threshold is not None:
-            df = df[df["Total"] > threshold]
-        df = df.sort_values(by="Total", ascending=False)
-        df.index.name = "Suggested Deck"
-        return df
+            table = table[table["Total"] > threshold]
+        table = table.sort_values(by="Total", ascending=False)
+        table.index.name = "Suggested Deck"
+        return table
 
     def guess_result(self, deck, opponent):
         guesses = self.get_guesses(deck, opponent) + [
@@ -131,7 +131,7 @@ class Tools3CB:
                     table.loc[deck, opponent] = self.guess_result(deck, opponent)
         # Recompute totals
         table = table.drop("Total", axis=1)
-        table["Total"] = table.sum(axis=1)
+        table.insert(0, "Total", table.sum(axis=1))
         table = table.sort_values(by="Total", ascending=False)
         return table
 
