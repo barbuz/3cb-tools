@@ -37,6 +37,10 @@ class Tools3CB:
         return Path(path).read_text().splitlines()
 
     def ingest(self, xlsx_path):
+        """
+        Ingest a tournament result file in xlsx format (generally used with monthly
+        results)
+        """
         logging.info(f"Ingesting {xlsx_path}")
         df = pd.read_excel(xlsx_path)
         # Fix extra spaces in column names
@@ -76,6 +80,7 @@ class Tools3CB:
             self.save_deck(deck_db)
 
     def remove_banlist(self, deck_db):
+        """Remove decks that contain banned cards from the index of a table"""
         for deck in deck_db.index:
             cards = deck.split(' | ')
             if any(card in self.banlist for card in cards):
@@ -113,7 +118,9 @@ class Tools3CB:
     def get_card_suggestions(self, gauntlet, threshold=None, remove_banlist=True):
         """
         Returns a DataFrame with all cards that have a known score above the threshold
-        against the gauntlet
+        against the gauntlet.
+        The score of a card against a deck is the average score of all decks including
+        that card against the deck.
         """
         table = pd.DataFrame()
         for deck in gauntlet:
@@ -138,6 +145,10 @@ class Tools3CB:
         return table
 
     def guess_result(self, deck, opponent):
+        """
+        Return a guess for the result of the given deck against the given opponent.
+        Averages the results from self.get_guesses, also considering the reverse matchup.
+        """
         guesses = self.get_guesses(deck, opponent) + [
             -guess for guess in self.get_guesses(opponent, deck)
         ]
@@ -146,6 +157,10 @@ class Tools3CB:
         return sum(guesses) / len(guesses)
 
     def get_guesses(self, deck, opponent):
+        """
+        Return a list of results for the given deck against any opponent sharing
+        more than one card with the given opponent.
+        """
         # TODO: Implement a better guess
         deck_db = self.load_deck(deck)
         opponent_cards = opponent.split(' | ')
@@ -157,13 +172,15 @@ class Tools3CB:
                 if card in opp_cards:
                     opp_cards.remove(card)
                     similarity += 1
-            guess = deck_db.loc[opp, "Result"]
-            # for _ in range(similarity):
             if similarity>1:
+                guess = deck_db.loc[opp, "Result"]
                 guesses.append(guess)
         return guesses
 
     def fill_guesses(self, table):
+        """
+        Fill in the missing values in the table with guesses based on self.guess_result.
+        """
         for deck in table.index:
             for opponent in table.columns:
                 if pd.isna(table.loc[deck, opponent]):
