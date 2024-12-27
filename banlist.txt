@@ -31,6 +31,7 @@ Deep-Cavern Bat
 Disruptor Flute
 Energy Field
 Flash
+Force of Negation
 Force of Will
 Funeral Charm
 Grief
@@ -42,9 +43,11 @@ Lion's Eye Diamond
 Lupine Prototype
 Mayor of Avabruck
 Maze of Ith
+Mishra's Factory
 Mishra's Workshop
 Mind Rake
 Mind Swords
+Nezumi Shortfang
 Ocelot Pride
 Oko, Thief of Crowns
 Path to Exile
