@@ -1,2 +1,3 @@
 itables
+openpyxl
 pandas

@@ -22,11 +22,11 @@ class Tools3CB:
             results = pd.DataFrame(columns=["Result"])
         return results
 
-    def save_deck(self, deck):
+    def save_deck(self, deck_db, deck):
         """
         Save the results of a deck to the database
         """
-        deck.to_csv(f"{self.database}/{deck}.csv")
+        deck_db.to_csv(f"{self.database}/{deck}.csv")
         # Add deck to decklist keeping it sorted and unique
         self.decklist.append(deck)
         self.decklist = sorted(set(self.decklist))
@@ -77,7 +77,7 @@ class Tools3CB:
                 else:
                     deck_db.loc[opponent, "Result"] = new_result
             # Save results
-            self.save_deck(deck_db)
+            self.save_deck(deck_db, deck)
 
     def remove_banlist(self, deck_db):
         """Remove decks that contain banned cards from the index of a table"""
