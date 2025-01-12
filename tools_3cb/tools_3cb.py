@@ -11,15 +11,20 @@ class Tools3CB:
         self.banlist = Path(banlist).read_text().splitlines()
         self.database = database
         self.decklist = Path(f"{self.database}/decks.txt").read_text().splitlines()
+        self.cache = dict()
 
     def load_deck(self, deck: str):
         """
         Load the results of a deck from the database
         """
+        if deck in self.cache:
+            return self.cache[deck]
+
         try:
             results = pd.read_csv(f"{self.database}/{deck}.csv", index_col=0)
         except FileNotFoundError:
             results = pd.DataFrame(columns=["Result"])
+        self.cache[deck] = results
         return results
 
     def save_deck(self, deck_db, deck):
