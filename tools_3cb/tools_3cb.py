@@ -91,6 +91,31 @@ class Tools3CB:
             if any(card in self.banlist for card in cards):
                 deck_db = deck_db.drop(deck)
         return deck_db
+    
+    def get_deck_global_score(self, deck, use_banlist=True):
+        """
+        Returns the global score of a deck, i.e. the total score against all other decks
+        """
+        deck_db = self.load_deck(deck)
+        if use_banlist:
+            deck_db = self.remove_banlist(deck_db)
+        return deck_db["Result"].sum()
+    
+    def get_all_global_scores(self, use_banlist=True):
+        """
+        Returns a DataFrame with the global scores of all decks
+        """
+        decks = list()
+        scores = list()
+        for deck in self.decklist:
+            if not use_banlist or not any(card in self.banlist for card in deck.split(' | ')):
+                decks.append(deck)
+                scores.append(self.get_deck_global_score(deck, use_banlist))
+        table = pd.DataFrame(scores, index=decks)
+        table = table.sort_values(by=0, ascending=False)
+        table.columns = ["Global score"]
+        table.index.name = "Deck"
+        return table
 
     def get_suggestions(self, gauntlet, threshold=None, estimate=True):
         """
@@ -110,13 +135,18 @@ class Tools3CB:
             table = pd.concat([table, deck_db], axis=1)
         result = table.copy()
         result.insert(0, "Known score", table.sum(axis=1))
+        sort_columns = ["Known score"]
         if threshold is not None:
             result = result[result["Known score"] > threshold]
         if estimate:
             est = self.fill_guesses(table)
             result.insert(1, "Estimated score", est.sum(axis=1))
-            result = result.sort_values(by="Estimated score", ascending=False)
-        result = result.sort_values(by="Known score", ascending=False, kind="stable")
+            sort_columns.append("Estimated score")
+
+        global_scores = [self.get_deck_global_score(deck) for deck in result.index] 
+        result.insert(2, "Global score", global_scores)
+        sort_columns.append("Global score")
+        result = result.sort_values(by=sort_columns, ascending=False, kind="stable")
         result.index.name = "Suggested Deck"
         return result
 
