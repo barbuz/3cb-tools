@@ -9,7 +9,6 @@ Ajani, Nacatl Pariah
 Anointed Peacekeeper
 Balance
 Bandit's Talent
-Bitterblossom
 Black Lotus
 Blackmail
 Boseiju, Who Endures
@@ -36,13 +35,14 @@ Force of Will
 Funeral Charm
 Grief
 Hangarback Walker
+Heartfire Hero
 Hexdrinker
 Inkmoth Nexus
+Invasion of Gobakhan
 Jace, Wielder of Mysteries
 Lion's Eye Diamond
 Lupine Prototype
 Mayor of Avabruck
-Maze of Ith
 Mishra's Factory
 Mishra's Workshop
 Mind Rake
@@ -52,9 +52,11 @@ Ocelot Pride
 Oko, Thief of Crowns
 Path to Exile
 Piracy Charm
+Prairie Dog
 Retrofitter Foundry
 Scion of Draco
 Shrieking Affliction
+Soul Partition
 Steel Overseer
 Strip Mine
 Swarm Shambler
