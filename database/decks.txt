@@ -18,6 +18,7 @@ Adanto Vanguard | Luminarch Aspirant | Remote Farm
 Aether Membrane | Aether Vial | Chancellor of the Tangle
 Aether Refinery | Braid of Fire | Sandstone Needle
 Aether Vial | Anim Pakal, Thousandth Moon | Pendelhaven
+Aether Vial | Blightsteel Colossus | Elvish Spirit Guide
 Aether Vial | Chancellor of the Annex | Chancellor of the Tangle
 Aether Vial | Chancellor of the Annex | Mutavault
 Aether Vial | Chancellor of the Tangle | Cobbled Lancer
@@ -26,6 +27,7 @@ Aether Vial | Chancellor of the Tangle | Knight of Autumn
 Aether Vial | Chancellor of the Tangle | Krenko's Buzzcrusher
 Aether Vial | Chancellor of the Tangle | Nurturing Pixie
 Aether Vial | Chancellor of the Tangle | Phylactery Lich
+Aether Vial | Chancellor of the Tangle | Sanctifier En-Vec
 Aether Vial | Chancellor of the Tangle | Weathered Sentinels
 Aether Vial | Desert | Grist, the Hunger Tide
 Aether Vial | Elvish Spirit Guide | Scornful Egotist
@@ -36,6 +38,7 @@ Agent of Treachery | Flash | Saprazzan Skerry
 Agent of Treachery | Force of Negation | Sand Silos
 Ajani Vengeant | Ancient Tomb | Tinder Farm
 Ajani Vengeant | Crystal Vein | Tinder Farm
+Ajani's Pridemate | Remote Farm | Soulmender
 Ajani, Nacatl Pariah | Ajani, Nacatl Pariah | Remote Farm
 Ajani, Nacatl Pariah | Boros Garrison | Hellion Crucible
 Ajani, Nacatl Pariah | Boros Garrison | The Tabernacle at Pendrell Vale
@@ -90,6 +93,7 @@ Alpine Moon | Sandstone Needle | Stromkirk Noble
 Alpine Moon | Scythe Tiger | Taiga
 Alpine Moon | Sleep-Cursed Faerie | Volcanic Island
 Alpine Moon | Slippery Bogle | Taiga
+Alpine Moon | Snow-Covered Mountain | Village Messenger
 Alpine Moon | Swarm Shambler | Taiga
 Alpine Moon | Swarm Shambler | Undiscovered Paradise
 Alpine Moon | Thornscape Apprentice | Undiscovered Paradise
@@ -119,6 +123,7 @@ Ancient Tomb | Damping Sphere | Soldevi Sentry
 Ancient Tomb | Dark Depths | Thespian's Stage
 Ancient Tomb | Davriel, Rogue Shadowmage | Mox Jet
 Ancient Tomb | Demolition Field | Phyrexian Revoker
+Ancient Tomb | Dismember | Phyrexian Revoker
 Ancient Tomb | Dismember | Steel Overseer
 Ancient Tomb | Drillworks Mole | Sphere of Resistance
 Ancient Tomb | Eldrazi Linebreaker | Simian Spirit Guide
@@ -134,14 +139,18 @@ Ancient Tomb | Field of Ruin | Steel Overseer
 Ancient Tomb | Field of Ruin | The Tabernacle at Pendrell Vale
 Ancient Tomb | Goblin Rabblemaster | Mox Ruby
 Ancient Tomb | Grim Monolith | Leveler
+Ancient Tomb | Gut Shot | Phyrexian Revoker
 Ancient Tomb | Hangarback Walker | Steel Overseer
 Ancient Tomb | Hangarback Walker | Warping Wail
 Ancient Tomb | Havenwood Battleground | Nullhide Ferox
+Ancient Tomb | Hex Parasite | Phyrexian Revoker
+Ancient Tomb | Hex Parasite | Sphere of Resistance
 Ancient Tomb | Hex Parasite | Steel Overseer
 Ancient Tomb | Hexdrinker | Mox Emerald
 Ancient Tomb | Hickory Woodlot | Nullhide Ferox
 Ancient Tomb | Hidetsugu Consumes All | Shadowblood Ridge
 Ancient Tomb | Hope of Ghirapur | Shadowspear
+Ancient Tomb | Idol of False Gods | Phyrexian Revoker
 Ancient Tomb | Idol of False Gods | Ruins of Oran-Rief
 Ancient Tomb | Idol of False Gods | The Filigree Sylex
 Ancient Tomb | Imperial Subduer | Mox Pearl
@@ -153,11 +162,13 @@ Ancient Tomb | Isochron Scepter | Warping Wail
 Ancient Tomb | Jinxed Idol | Myr Sire
 Ancient Tomb | Karn, Scion of Urza | Mana Vault
 Ancient Tomb | Leyline of the Guildpact | Scion of Draco
+Ancient Tomb | Lodestone Golem | Mana Vault
 Ancient Tomb | Lupine Prototype | Lupine Prototype
 Ancient Tomb | Lupine Prototype | Urza's Saga
 Ancient Tomb | Magus of the Moon | Mox Ruby
 Ancient Tomb | Magus of the Moon | Simian Spirit Guide
 Ancient Tomb | Mana Vault | Thought-Knot Seer
+Ancient Tomb | Mossborn Hydra | Undiscovered Paradise
 Ancient Tomb | Mox Emerald | Words of Wilding
 Ancient Tomb | Mox Jet | Rotting Regisaur
 Ancient Tomb | Mox Jet | Unstoppable Slasher
@@ -173,12 +184,14 @@ Ancient Tomb | Phyrexian Revoker | Steel Overseer
 Ancient Tomb | Phyrexian Revoker | Warping Wail
 Ancient Tomb | Pithing Needle | Steel Overseer
 Ancient Tomb | Porcelain Legionnaire | Ratchet Bomb
+Ancient Tomb | Remote Farm | The Wandering Emperor
 Ancient Tomb | Sandstone Needle | Yidaro, Wandering Monster
 Ancient Tomb | Simian Spirit Guide | Stingerback Terror
 Ancient Tomb | Steel Golem | Warping Wail
 Ancient Tomb | Steel Overseer | Steel Overseer
 Ancient Tomb | Steel Overseer | Thorn of Amethyst
 Ancient Tomb | Steel Overseer | Walking Ballista
+Ancient Tomb | Swamp | Unstoppable Slasher
 Ancient Tomb | Time Vault | Voltaic Servant
 Ancient Tomb | Urza's Saga | Void Mirror
 Ancient Ziggurat | Champion of the Parish | Norin the Wary
@@ -205,8 +218,10 @@ Anointed Peacekeeper | Crystal Vein | Mox Pearl
 Anointed Peacekeeper | Plains | Sol Ring
 Anvil of Bogardan | Blazing Rootwalla | City of Traitors
 Anvil of Bogardan | Cathedral of War | Inkmoth Nexus
+Anvil of Bogardan | Crystal Vein | Nether Spirit
 Anvil of Bogardan | Mishra's Workshop | The Rack
 Anzrag, the Quake-Mole | Dwarven Hold | Laser Screwdriver
+Aphelia, Viper Whisperer | Blinkmoth Nexus | Mox Jet
 Apostle's Blessing | Luminarch Aspirant | Remote Farm
 Approach of the Second Sun | Fountain of Cho | Island Sanctuary
 Approach of the Second Sun | Fountain of Cho | Path to Exile
@@ -233,11 +248,13 @@ Armor of Thorns | Hickory Woodlot | Wilson, Refined Grizzly
 Arrogant Wurm | Lion's Eye Diamond | Wasteland
 Artifact Blast | Chancellor of the Forge | Simian Spirit Guide
 Artifact Blast | Dryad Arbor | Simian Spirit Guide
+Artificial Evolution | Dragon Hunter | Undiscovered Paradise
 Ash Zealot | Black Lotus | Built to Smash
 Assassin Initiate | Evil Presence | Swamp
 Assassin Initiate | Inquisition of Kozilek | Urborg
 Assassin Initiate | Swamp | Thoughtseize
 Assassin's Trophy | Chancellor of the Forge | Geothermal Crevice
+Assassin's Trophy | Dryad Arbor | Geothermal Crevice
 Assassin's Trophy | Dryad Arbor | Volatile Fault
 Assassin's Trophy | Geothermal Crevice | Keldon Halberdier
 Assassin's Trophy | Geothermal Crevice | Reckless Waif
@@ -271,6 +288,8 @@ Azure Beastbinder | Saprazzan Skerry | Tide Shaper
 Bad Moon | Bitterblossom | Peat Bog
 Badlands | Blazing Rootwalla | Bone Shards
 Badlands | Blazing Rootwalla | Tinybones Joins Up
+Badlands | Bloodhall Ooze | Infestation Sage
+Badlands | Crack the Earth | Innocent Blood
 Badlands | Crack the Earth | Spiteful Hexmage
 Badlands | Encroach | Stromkirk Noble
 Badlands | Greater Gargadon | Innocent Blood
@@ -334,6 +353,7 @@ Bilious Skulldweller | Dreams of Steel and Oil | Swamp
 Bilious Skulldweller | Elixir of Immortality | Geothermal Crevice
 Bilious Skulldweller | Swamp | Swarmyard
 Bilious Skulldweller | Swamp | Thoughtseize
+Bind the Monster | Gleeful Demolition | Silverbluff Bridge
 Bitterblossom | Bitterblossom | Peat Bog
 Bitterblossom | Cabal Therapy | Peat Bog
 Bitterblossom | Dark Ritual | Swamp
@@ -418,6 +438,7 @@ Blazing Rootwalla | Lion's Eye Diamond | Necrogoyf
 Blazing Rootwalla | Peat Bog | Smallpox
 Blazing Rootwalla | Plateau | Skrelv, Defector Mite
 Blazing Rootwalla | Restore Balance | Undiscovered Paradise
+Blazing Rootwalla | Slagwoods Bridge | Sonic Seizure
 Blazing Shoal | Chancellor of the Forge | Chancellor of the Forge
 Blazing Shoal | Chancellor of the Forge | Mercadian Bazaar
 Blazing Volley | Hammerheim | Heartfire Hero
@@ -433,9 +454,11 @@ Blinkmoth Nexus | Chain of Smog | Mox Jet
 Blinkmoth Nexus | City of Traitors | Inkmoth Nexus
 Blinkmoth Nexus | Forest | Hexdrinker
 Blinkmoth Nexus | Grove of the Burnwillows | Punishing Fire
+Blinkmoth Nexus | Hymn to Tourach | Urborg, Tomb of Yawgmoth
 Blinkmoth Nexus | Imaginary Pet | Mox Sapphire
 Blinkmoth Nexus | Inkmoth Nexus | Mishra's Factory
 Blinkmoth Nexus | Inkmoth Nexus | Pendelhaven
+Blinkmoth Nexus | Invasion of Gobakhan | Mox Diamond
 Blinkmoth Nexus | Invasion of Gobakhan | Mox Pearl
 Blinkmoth Nexus | Island Sanctuary | Mox Pearl
 Blinkmoth Nexus | Mox Pearl | Reluctant Role Model
@@ -511,6 +534,7 @@ Bottomless Vault | Kaervek, the Spiteful | Ophiomancer
 Bottomless Vault | Lab Rats | Thoughtseize
 Bottomless Vault | Liliana, The Last Hope | Wretched Banquet
 Bottomless Vault | Lurrus of the Dream-Den | Yarok's Fenlurker
+Bottomless Vault | Murderous Rider | Mutavault
 Bottomless Vault | Murderous Rider | Noxious Revival
 Bottomless Vault | Murderous Rider | Sheoldred's Edict
 Bottomless Vault | Murderous Rider | Ulamog, the Infinite Gyre
@@ -531,6 +555,8 @@ Bottomless Vault | Unstoppable Slasher | Witch's Vengeance
 Bottomless Vault | Virtus's Maneuver | Walking Ballista
 Braid of Fire | Red Sun's Zenith | Sandstone Needle
 Braids, Cabal Minion | Dreadship Reef | Dunes of the Dead
+Brain Maggot | Dreadhorde Invasion | Peat Bog
+Brain Maggot | Mox Jet | Mutavault
 Brain Maggot | Mox Jet | Rishadan Port
 Brazen Borrower | Jace, Wielder of Mysteries | Sand Silos
 Bristly Bill, Spine Sower | Oboro, Palace in the Clouds | Rushwood Grove
@@ -544,6 +570,7 @@ Burning Inquiry | Mountain | Nether Spirit
 Burning Inquiry | Nether Spirit | Simian Spirit Guide
 Butcher Ghoul | Flare of Malice | Peat Bog
 Butcher Ghoul | Peat Bog | Smallpox
+Cabal Therapist | Shambling Ghast | Swamp
 Cabal Therapist | Shrouded Lore | Swamp
 Cabal Therapist | Storm World | Undiscovered Paradise
 Cabal Therapy | Chronomaton | Swamp
@@ -559,6 +586,7 @@ Calciform Pools | Island Sanctuary | Mirrex
 Calciform Pools | Living Conundrum | Mishra's Factory
 Calciform Pools | March of Otherworldly Light | Mirrex
 Calciform Pools | Mirrex | Soul Partition
+Calciform Pools | Restless Anchorage | Wind Zendikon
 Call to the Netherworld | Lion's Eye Diamond | Mesmeric Fiend
 Campfire | Eldrazi Temple | Idol of False Gods
 Capricious Efreet | Dwarven Hold | Fireball
@@ -577,7 +605,9 @@ Cathedral of War | Inkmoth Nexus | Sphere of Resistance
 Cathedral of War | Inkmoth Nexus | Steel Overseer
 Cathedral of War | Inkmoth Nexus | The Filigree Sylex
 Cathedral of War | Inkmoth Nexus | The Tabernacle at Pendrell Vale
+Cauldron Familiar | Cavern of Souls | Witch's Oven
 Cauldron Familiar | Phyrexian Tower | Witch's Oven
+Cauldron Familiar | Swamp | Witch's Oven
 Cauldron Familiar | Urborg | Witch's Oven
 Cavern of Souls | Champion of the Parish | Reinforced Ronin
 Cavern of Souls | Chancellor of the Annex | Hex Parasite
@@ -872,9 +902,11 @@ Crack the Earth | Forge Devil | Sandstone Needle
 Crack the Earth | Greater Gargadon | Mountain
 Crack the Earth | Hammerheim | Heartfire Hero
 Crack the Earth | Innocent Blood | Undiscovered Paradise
+Crack the Earth | Memnite | Mountain
 Crack the Earth | Memnite | Mox Ruby
 Crack the Earth | Mox Ruby | The Tabernacle at Pendrell Vale
 Crack the Earth | Old-Growth Dryads | Taiga
+Crack the Earth | Taiga | Young Wolf
 Cranial Ram | Generous Plunderer | Sandstone Needle
 Crashing Footfalls | Detention Vortex | Razorverge Thicket
 Crashing Footfalls | Dryad Arbor | Dryad Arbor
@@ -922,12 +954,15 @@ Cry of Contrition | Sleep-Cursed Faerie | Undiscovered Paradise
 Crystal Vein | Crystal Vein | Eater of Days
 Crystal Vein | Elite Spellbinder | Mox Pearl
 Crystal Vein | Elixir of Immortality | Gingerbrute
+Crystal Vein | Glass-Cast Heart | Mox Jet
+Crystal Vein | Goblin Rabblemaster | Mox Ruby
 Crystal Vein | Hickory Woodlot | Nullhide Ferox
 Crystal Vein | Jace, Wielder of Mysteries | Lotus Bloom
 Crystal Vein | Karn, Living Legacy | Mana Vault
 Crystal Vein | Karn, Scion of Urza | Mana Vault
 Crystal Vein | Leveler | Mana Vault
 Crystal Vein | Leyline of the Guildpact | Scion of Draco
+Crystal Vein | Lodestone Golem | Mana Crypt
 Crystal Vein | Lodestone Golem | Mana Vault
 Crystal Vein | Magus of the Moon | Mox Ruby
 Crystal Vein | Magus of the Moon | Simian Spirit Guide
@@ -936,6 +971,7 @@ Crystal Vein | Memnite | Sphere of Resistance
 Crystal Vein | Mox Emerald | Words of Wilding
 Crystal Vein | Mox Jet | Unstoppable Slasher
 Crystal Vein | Mutavault | Void Mirror
+Crystal Vein | Overlord of the Mistmoors | Remote Farm
 Crystalline Giant | Darksteel Citadel | Mana Vault
 Crystalline Giant | Lupine Prototype | Mishra's Workshop
 Crystalline Giant | Mishra's Workshop | Trinisphere
@@ -950,6 +986,7 @@ Curse of Silence | Plains | Student of Warfare
 Cursecatcher | Sleep-Cursed Faerie | Umara Wizard
 Custody Battle | Flamekin Village | Undiscovered Paradise
 Dakmor Salvage | Ethereal Absolution | Fountain of Cho
+Dakmor Salvage | Molten Vortex | Mountain
 Damping Sphere | Mishra's Factory | Sol Ring
 Daretti, Ingenious Iconoclast | Generous Plunderer | Sandstone Needle
 Daretti, Ingenious Iconoclast | Interplanar Beacon | Mana Crypt
@@ -982,6 +1019,7 @@ Dark Ritual | Plaguecrafter | Swamp
 Dark Ritual | Rotting Regisaur | Swamp
 Dark Ritual | Rotting Regisaur | Urborg
 Dark Ritual | Swamp | Unstoppable Slasher
+Dark Ritual | Swamp | Vampire Nighthawk
 Darksteel Citadel | Ensoul Artifact | Mox Sapphire
 Darksteel Citadel | Ice Floe | The Millennium Calendar
 Darksteel Citadel | Mox Sapphire | Rise and Shine
@@ -1070,11 +1108,13 @@ Drop of Honey | Forbidden Orchard | Sleep-Cursed Faerie
 Drop of Honey | Hollow Trees | Nissa, Ascended Animist
 Drop of Honey | Hollow Trees | Tender Wildguide
 Drop of Honey | Rushwood Grove | Timeless Witness
+Drop of Honey | Sunken Citadel | Treetop Village
 Drowner of Truth | Flickerwisp | Remote Farm
 Drowner of Truth | Mox Sapphire | Teferi's Time Twist
 Drownyard Temple | Hollow Trees | World Breaker
 Dryad Arbor | Dryad Arbor | Dryad Arbor
 Dryad Arbor | Dryad Arbor | Fishing Pole
+Dryad Arbor | Dryad Arbor | Lignify
 Dryad Arbor | Dryad Arbor | Lush Growth
 Dryad Arbor | Dryad Arbor | Myr Superion
 Dryad Arbor | Dryad Arbor | Pick Your Poison
@@ -1139,6 +1179,7 @@ Ebon Stronghold | Sudden Edict | Vicious Conquistador
 Eiganjo, Seat of the Empire | Frodo, Sauron's Bane | Orzhov Basilica
 Eiganjo, Seat of the Empire | Khalni Garden | Reluctant Role Model
 Eldrazi Displacer | Eldrazi Temple | Plains
+Eldrazi Ravager | Exhume | Peat Bog
 Eldrazi Temple | Field of Ruin | Idol of False Gods
 Eldrazi Temple | Idol of False Gods | Idol of False Gods
 Eldrazi Temple | Idol of False Gods | Kozilek's Command
@@ -1149,6 +1190,7 @@ Elspeth, Sun's Champion | Icatian Store | Maze of Ith
 Elspeth, Sun's Champion | Lotus Bloom | Lotus Bloom
 Elvish Spirit Guide | Karakas | Mayor of Avabruck
 Elvish Spirit Guide | Simian Spirit Guide | Skylasher
+Emerge Unscathed | Favored Hoplite | Plains
 Emrakul, the Aeons Torn | Lion's Eye Diamond | Shelldock Isle
 Emrakul, the Aeons Torn | Lotus Bloom | Show and Tell
 Emrakul, the Aeons Torn | Mercadian Bazaar | Sneak Attack
@@ -1197,6 +1239,7 @@ Etched Slith | Peat Bog | Sheoldred's Edict
 Eternal Scourge | Fountain of Cho | Path to Exile
 Everglades | Murderous Rider | Swamp
 Everglades | Spawning Pool | The Tabernacle at Pendrell Vale
+Exquisite Huntmaster | Garza's Assassin | Subterranean Hangar
 Eye of Ugin | Inverter of Truth | Urborg, Tomb of Yawgmoth
 Eye of Ugin | Thought-Knot Seer | Urborg, Tomb of Yawgmoth
 Ezio Auditore da Firenze | Morophon, the Boundless | Peat Bog
@@ -1222,6 +1265,7 @@ Field of Ruin | Sleep-Cursed Faerie | Sunken Citadel
 Field of Ruin | Sunken Citadel | Treetop Village
 Fiend Hunter | Karoo | Plains
 Figure of Destiny | Fountain of Cho | Path to Exile
+Flare of Denial | Island | Sleep-Cursed Faerie
 Flare of Malice | Nested Shambler | Swamp
 Flash | Geralf's Mindcrusher | Saprazzan Cove
 Flash | Gruff Triplets | Saprazzan Skerry
@@ -1232,6 +1276,7 @@ Flash | Saprazzan Cove | Worldspine Wurm
 Flash | Saprazzan Skerry | Woodfall Primus
 Flash | Saprazzan Skerry | Worldspine Wurm
 Flaxen Intruder | Hollow Trees | Pick Your Poison
+Flickering Ward | Plains | Speaker of the Heavens
 Flickering Ward | Undiscovered Paradise | Venerated Rotpriest
 Floodbringer | Mox Sapphire | Sunscorched Desert
 Floodpits Drowner | Mox Sapphire | Mutavault
@@ -1239,6 +1284,7 @@ Foil | Island | Nether Spirit
 Foil | Island | Rishadan Dockhand
 Foil | Island | The Tabernacle at Pendrell Vale
 Foil | Island | Wasteland
+Foil | Mutavault | Snow-Covered Island
 Forbidden Orchard | Icatian Moneychanger | The Millennium Calendar
 Forbidden Orchard | Kambal, Profiteering Mayor | Remote Farm
 Forbidden Orchard | Peat Bog | Suspended Sentence
@@ -1290,6 +1336,7 @@ Forest | Mistbreath Elder | Sunshower Druid
 Forest | Mutavault | Pithing Needle
 Forest | Nature's Claim | Swarm Shambler
 Forest | Old-Growth Dryads | Old-Growth Dryads
+Forest | Old-Growth Dryads | Pick Your Poison
 Forest | Old-Growth Dryads | Wasteland
 Forest | Rushwood Grove | Spawnwrithe
 Forget | Imaginary Pet | Saprazzan Skerry
@@ -1302,8 +1349,10 @@ Fountain of Cho | Island Sanctuary | Ulamog, the Infinite Gyre
 Fountain of Cho | Path to Exile | Shrine of Burning Rage
 Fountain of Cho | Path to Exile | Skrelv's Hive
 Fountain of Cho | Path to Exile | Ulamog, the Infinite Gyre
+Fountain of Cho | Phyrexian Triniform | Subterranean Hangar
 Fountain of Cho | Porphyry Nodes | The Wandering Emperor
 Fountain of Cho | Prairie Dog | Starfall Invocation
+Fountain of Cho | Serra the Benevolent | Solitude
 Fountain of Cho | The Tabernacle at Pendrell Vale | The Wandering Emperor
 Fountain of Cho | The Wandering Emperor | Winds of Abandon
 Fountain of Renewal | Ocelot Pride | Plains
@@ -1325,8 +1374,10 @@ Gargadon | Sandstone Needle | Wild Magic Surge
 Garruk, Cursed Huntsman | Lotus Bloom | Lotus Bloom
 Gather the Townsfolk | Karakas | Mistveil Plains
 Gemstone Caverns | Gingerbrute | Pure Intentions
+Gemstone Mine | Greater Gargadon | Restore Balance
 Gemstone Mine | Portable Hole | Restore Balance
 Generous Plunderer | Gut, True Soul Zealot | Sandstone Needle
+Generous Plunderer | Oni-Cult Anvil | Sandstone Needle
 Generous Plunderer | Sandstone Needle | Stasis
 Get Lost | Island Sanctuary | Remote Farm
 Get Lost | Prairie Dog | Remote Farm
@@ -1393,6 +1444,7 @@ Guide of Souls | Karakas | Ocelot Pride
 Guide of Souls | Norin the Wary | Undiscovered Paradise
 Guide of Souls | Ocelot Pride | Plains
 Guide of Souls | Remote Farm | Skrelv's Hive
+Gut Shot | Memnite | Mental Misstep
 Guul Draz Assassin | Karakas | Swamp
 Guul Draz Assassin | Mishra's Factory | Mox Jet
 Hammerheim | Heartfire Hero | Heartfire Hero
@@ -1419,6 +1471,7 @@ Heartfire Hero | Leather Armor | Mountain
 Heartfire Hero | Nomads en-Kor | Plateau
 Hex Parasite | Karakas | Portable Hole
 Hex Parasite | Mishra's Factory | Swamp
+Hex Parasite | Mutavault | Swarmyard
 Hexdrinker | Hexdrinker | Hollow Trees
 Hexdrinker | Icehide Golem | Snow-Covered Forest
 Hexdrinker | Inquisition of Kozilek | Undiscovered Paradise
@@ -1441,6 +1494,7 @@ Hexdrinker | The Tabernacle at Pendrell Vale | Yavimaya, Cradle of Growth
 Hexdrinker | Thoughtseize | Undiscovered Paradise
 Hexdrinker | Undiscovered Paradise | Unwanted Remake
 Hickory Woodlot | Lion Umbra | Steel Overseer
+Hickory Woodlot | Liquimetal Coating | Outland Liberator
 Hickory Woodlot | Mayor of Avabruck | Mayor of Avabruck
 Hickory Woodlot | Mayor of Avabruck | Naturalize
 Hickory Woodlot | Mayor of Avabruck | Outland Liberator
@@ -1476,8 +1530,10 @@ Hollow Trees | Shield Sphere | Untamed Kavu
 Hollow Trees | Song of the Dryads | Wilson, Refined Grizzly
 Hollow Trees | Squirrel Nest | Treetop Village
 Hollow Trees | Subterranean Hangar | Vraska the Unseen
+Homeward Path | Mox Sapphire | Volatile Stormdrake
 Hope of Ghirapur | Isamaru, Hound of Konda | Karakas
 Hope of Ghirapur | Wasteland | Welding Jar
+Hopeless Nightmare | Swamp | Tel-Jilad Stylus
 Hoverstone Pilgrim | Sheoldred's Edict | Subterranean Hangar
 Hungry Lynx | Malamet Brawler | Mirri, Cat Warrior
 Hunted Horror | The Tabernacle at Pendrell Vale | Urborg, Tomb of Yawgmoth
@@ -1536,12 +1592,14 @@ Innocent Blood | Mishra's Factory | Mox Jet
 Innocent Blood | Nether Spirit | Subterranean Hangar
 Innocent Blood | Sacred Cat | Scrubland
 Inquisition of Kozilek | Mishra's Factory | Swamp
+Inquisition of Kozilek | Scrubland | Student of Warfare
 Inquisition of Kozilek | Subterranean Hangar | Tomb of Urami
 Interplanar Beacon | Mana Crypt | Oko, Thief of Crowns
 Interplanar Beacon | Mana Vault | Minsc & Boo, Timeless Heroes
 Into the Flood Maw | Tanglepool Bridge | Wind Zendikon
 Invasion of Gobakhan | Mishra's Factory | Mox Pearl
 Invasion of Gobakhan | Mox Pearl | Mutavault
+Invasion of Gobakhan | Remote Farm | Westfold Rider
 Inventor's Apprentice | Lightning Bolt | Mox Ruby
 Invisible Stalker | Reality Shift | Saprazzan Skerry
 Isamaru, Hound of Konda | Karakas | Mana Tithe
@@ -1576,8 +1634,10 @@ Isochron Scepter | Lightning Helix | Mana Crypt
 Isochron Scepter | Mana Crypt | Verdant Command
 Izzet Boilerworks | The Tabernacle at Pendrell Vale | Yidaro, Wandering Monster
 Jace, Wielder of Mysteries | Karakas | Lotus Bloom
+Jagged Barrens | Sarcomancy | Tel-Jilad Stylus
 Jan Jansen, Chaos Crafter | Tinder Farm | Vault of Whispers
 Jetmir's Garden | Qasali Ambusher | Wild Nacatl
+Jetmir's Garden | Unwanted Remake | Wild Nacatl
 Kabira Crossroads | Providence | Speaker of the Heavens
 Kaldra Compleat | Remote Farm | Stoneforge Mystic
 Karakas | Lavinia, Azorius Renegade | Mox Sapphire
@@ -1621,9 +1681,11 @@ Keldon Megaliths | Pithing Needle | Sunken Citadel
 Keldon Megaliths | Sunken Citadel | The Tabernacle at Pendrell Vale
 Kessig Forgemaster | Mask of Immolation | Sandstone Needle
 Khalni Garden | Mistbreath Elder | Sunshower Druid
+Kitesail Freebooter | Mox Jet | Rishadan Port
 Knight of the Holy Nimbus | Remote Farm | Soul Partition
 Kor Haven | Skrelv's Hive | Sunken Citadel
 Kozilek, Butcher of Truth | Saprazzan Cove | Show and Tell
+Krenko, Baron of Tin Street | Mana Crypt | Mox Ruby
 Kuldotha Rebirth | Leyline of the Meek | Mox Ruby
 Kulrath Knight | Reanimate | Subterranean Hangar
 Lair of the Hydra | Llanowar Mentor | Ulamog, the Infinite Gyre
@@ -1696,12 +1758,15 @@ Lupine Prototype | Mishra's Workshop | Trinisphere
 Lupine Prototype | Mishra's Workshop | Wheel of Torture
 Lurrus of the Dream-Den | Subterranean Hangar | Vampire of the Dire Moon
 Magda, the Hoardmaster | Mox Ruby | Rishadan Port
+Magus of the Vineyard | Mossborn Hydra | Undiscovered Paradise
+Malcolm, Alluring Scoundrel | Saprazzan Cove | Ulamog, the Infinite Gyre
 Mana Crypt | Phyrexian Dreadnought | The Mycosynth Gardens
 Mana Crypt | Scroll of Griselbrand | Urza's Saga
 Mana Tithe | Memnite | Plains
 Mana Tithe | Mox Pearl | Restore Balance
 Mana Tithe | Plains | Speaker of the Heavens
 Mana Vault | Mox Jet | Rottenmouth Viper
+March from the Black Gate | Mox Jet | Mutavault
 Mayor of Avabruck | Mox Emerald | Mutavault
 Mayor of Avabruck | Mox Emerald | Volatile Fault
 Mayor of Avabruck | Mox Emerald | Wasteland
@@ -1710,6 +1775,8 @@ Memnite | Mental Misstep | Subtlety
 Memnite | Mountain | Raze
 Memnite | Snow-Covered Swamp | Specter's Shriek
 Mental Misstep | Pendelhaven | Vault Skirge
+Mental Misstep | Remote Farm | Skrelv's Hive
+Mental Misstep | Sunken Citadel | Treetop Village
 Mercadian Bazaar | Red Sun's Zenith | Wild Magic Surge
 Mercadian Bazaar | Shivan Devastator | Subterranean Tremors
 Mercadian Bazaar | Squee, the Immortal | Tibalt's Trickery
@@ -1717,11 +1784,13 @@ Mesmeric Fiend | Mishra's Factory | Mox Jet
 Mesmeric Fiend | Mox Jet | Rishadan Port
 Mesmeric Fiend | Mox Jet | Urza's Factory
 Miasmic Mummy | Mox Jet | Rishadan Port
+Miasmic Mummy | Mox Jet | Unholy Grotto
 Mikaeus, the Lunarch | Remote Farm | Swift Reconfiguration
 Mind Rake | Mishra's Factory | Mox Jet
 Mind Swords | Mishra's Factory | Mox Jet
 Mindlash Sliver | Subterranean Hangar | Tithing Blade
 Mindleech Ghoul | Mox Jet | Unholy Grotto
+Minsc & Boo, Timeless Heroes | Orcish Lumberjack | Taiga
 Misdirection | Misthollow Griffin | Sand Silos
 Misdirection | Misthollow Griffin | Saprazzan Cove
 Mishra's Factory | Mishra's Factory | Mishra's Factory
@@ -1758,16 +1827,21 @@ Mockingbird | Mockingbird | Mockingbird
 Mockingbird | Ocelot Pride | Tundra
 Mockingbird | Ocelot Pride | Undiscovered Paradise
 Mother of Runes | Ocelot Pride | Plains
+Mother of Runes | Plains | Skrelv, Defector Mite
 Mother of Runes | Secluded Courtyard | Stormscape Apprentice
 Mountain | Mox Ruby | Yidaro, Wandering Monster
 Mountain | Nether Spirit | Sonic Seizure
 Mountain | Raze | Wayward Guide-Beast
 Mountain | Seal of Fire | Tel-Jilad Stylus
 Mountain | Storm World | Wayward Guide-Beast
+Mountain | Village Messenger | Village Messenger
+Mox Emerald | Mutavault | Outland Liberator
+Mox Emerald | Mutavault | Troublemaker Ouphe
 Mox Emerald | Outland Liberator | Rishadan Port
 Mox Emerald | Outland Liberator | Volatile Fault
 Mox Emerald | Outland Liberator | Wasteland
 Mox Emerald | Swarm Shambler | Volatile Fault
+Mox Jet | Mox Jet | Refurbished Familiar
 Mox Jet | Mox Jet | Rishadan Port
 Mox Jet | Mox Ruby | Oni-Cult Anvil
 Mox Jet | Mutavault | Nezumi Shortfang
@@ -1792,6 +1866,8 @@ Mox Pearl | Skrelv's Hive | Wasteland
 Mox Pearl | Thalia, Guardian of Thraben | Volatile Fault
 Mox Pearl | Thalia, Guardian of Thraben | Wasteland
 Mox Ruby | Mutavault | Roiling Vortex
+Mox Ruby | Mutavault | Sphere of Resistance
+Mox Sapphire | Mutavault | Tide Shaper
 Mox Sapphire | Rishadan Port | Sleep-Cursed Faerie
 Mox Sapphire | Rishadan Port | Volatile Stormdrake
 Mu Yanling, Sky Dancer | Oboro, Palace in the Clouds | Sol Ring
@@ -1802,6 +1878,7 @@ Mutavault | Plains | Skrelv's Hive
 Mutavault | Retrofitter Foundry | Sol Ring
 Mutavault | Rishadan Port | The Tabernacle at Pendrell Vale
 Myr Servitor | Myr Servitor | Sheltered Valley
+Narnam Renegade | Student of Warfare | Undiscovered Paradise
 Nature's Claim | Predator Ooze | Rushwood Grove
 Necrotic Ooze | Swamp | Thoughtseize
 Nested Shambler | Tendrils of Despair | Urborg
@@ -1833,6 +1910,7 @@ Orcish Lumberjack | Sunder Shaman | Taiga
 Ornithopter | Retrofitter Foundry | Tolarian Academy
 Outland Liberator | The Tabernacle at Pendrell Vale | Yavimaya, Cradle of Growth
 Overencumbered | Phelia, Exuberant Shepherd | Remote Farm
+Overencumbered | Remote Farm | Scalding Tongs
 Pardic Dragon | Sandstone Needle | Wild Magic Surge
 Path to Exile | Plains | Student of Warfare
 Path to Exile | Prairie Dog | Remote Farm
@@ -1851,6 +1929,7 @@ Phelia, Exuberant Shepherd | Remote Farm | Samwise the Stouthearted
 Phelia, Exuberant Shepherd | Remote Farm | Senu, Keen-Eyed Protector
 Phelia, Exuberant Shepherd | Remote Farm | Tax Collector
 Phelia, Exuberant Shepherd | Remote Farm | Unwanted Remake
+Phelia, Exuberant Shepherd | Remote Farm | White Knight
 Phelia, Exuberant Shepherd | Remote Farm | White Orchid Phantom
 Phelia, Exuberant Shepherd | Ruins of Trokair | Tax Collector
 Phyrexian Dreadnought | Sand Silos | Stifle
@@ -1859,6 +1938,7 @@ Phyrexian Dreadnought | Stifle | Svyelunite Temple
 Phyrexian Processor | Planar Nexus | Urza's Tower
 Pick Your Poison | Sleep-Cursed Faerie | Tropical Island
 Piracy Charm | Swarm Shambler | Tropical Island
+Piranha Marsh | Sarcomancy | Tel-Jilad Stylus
 Pithing Needle | Plains | Student of Warfare
 Pithing Needle | Retrofitter Foundry | Tolarian Academy
 Plains | Porphyry Nodes | Restore Balance
@@ -1927,6 +2007,7 @@ Saprazzan Skerry | Spellstutter Sprite | Unsubstantiate
 Saprazzan Skerry | Star Whale | Time Beetle
 Saprazzan Skerry | Tide Shaper | Tide Shaper
 Saprazzan Skerry | Unsubstantiate | Volatile Stormdrake
+Sarcomancy | Snow-Covered Swamp | Tel-Jilad Stylus
 Sarcomancy | Soured Springs | Tel-Jilad Stylus
 Sarcomancy | Swamp | Tel-Jilad Stylus
 Sarcomancy | Tel-Jilad Stylus | Urborg
